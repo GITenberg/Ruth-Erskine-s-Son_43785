@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4482
     wikipedia: http://en.wikipedia.org/wiki/Isabella_Macdonald_Alden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43785#Ruth-Erskine-s-Son
 gutenberg_issued: '2013-09-21'
 gutenberg_type: Text
 identifiers:
