@@ -1,0 +1,41 @@
+_repo: Ruth-Erskine-s-Son_43785
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Clark, Louise
+    gutenberg_agent_id: '42403'
+    url: http://www.gutenberg.org/2009/agents/42403
+covers:
+- cover_type: archival
+  image_path: 43785-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pansy
+    aliases:
+    - Alden, Isabella Macdonald
+    - Alden, Mrs. G. R. (Isabella)
+    birthdate: 1841
+    deathdate: 1930
+    gutenberg_agent_id: '4482'
+    url: http://www.gutenberg.org/2009/agents/4482
+    wikipedia: http://en.wikipedia.org/wiki/Isabella_Macdonald_Alden
+description: ''
+gutenberg_issued: '2013-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43785'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mothers and sons -- Fiction'
+- !lcsh 'Daughters-in-law -- Fiction'
+- !lcsh 'Widows -- Fiction'
+- !lcsh 'Children of divorced parents -- Fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Divorced women -- Fiction'
+title: Ruth Erskine's Son
+url: http://www.gutenberg.org/ebooks/43785
